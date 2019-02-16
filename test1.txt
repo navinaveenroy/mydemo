@@ -1,1 +1,3 @@
-im new text file 
+
+im new text file
+added new line  
