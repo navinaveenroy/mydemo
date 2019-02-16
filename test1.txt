@@ -1,5 +1,13 @@
 
 im new text file
+<<<<<<< HEAD
 added new line
 
 im new line for testing the feature b branch   
+=======
+added new line  
+  
+
+
+feature -b im 
+>>>>>>> feature-b
