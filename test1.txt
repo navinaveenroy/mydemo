@@ -11,3 +11,8 @@ added new line
 
 feature -b im 
 >>>>>>> feature-b
+
+
+im a new line again
+
+new and more 
